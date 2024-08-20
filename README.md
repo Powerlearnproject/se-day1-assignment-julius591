@@ -20,27 +20,22 @@ d. Testing. This involves conducting tests to ensure the software meets quality 
 e. Deployment. This entails releasing the software to users.
 f. Maintenance. This is the provision of ongoing support, updates and enhancements to the software after deployment.
 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodologies involve the sequential approach with distinct phases such as requirements, design and implementation that flow down like a waterfall. Agile methodologies on the other hand is the iterative and incremental approach that is focused on flexibility, collaboration and response to change. 
 An instance where Waterfall methodologies would be used is in projects that have well-defined requirements and strict deadlines. Agile methodologies on the other hand are applied to projects where the significant constraints are dynamic and not well-defined. 
-
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 A software developer is responsible for writing code and implementing software solutions.
 A Quality Assurance Engineer ensures software quality by designing and executing test plans.
 A Project Manager oversees the planning, execution and delivery of software projects.
 
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments are software suites that provide comprehensive tools for writing, debugging and testing code to ensure code quality is attained. They include Visual Studio and Eclipse.
 Version Control Systems are software tools that are used for tracking changes to a source code and coordinating work among team members to ensure collaboration is met. They include Git and Subversion.
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Tight deadlines as the pressure to deliver software products on schedule can result in rushed development and compromised quality. Changing requirements is another challenge which occurs during the development cycle leading to scope creep and project delays. Another challenge is technical debt which is accrued from shortcuts or suboptimal solutions which can impede future developments and increase the maintenance costs. 
 All the challenges named above can be mitigated through effective communication, agile methodologies, prioritization of tasks and regular assessment of project goals and timelines.
-
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 a. Unit testing involves testing the individual components or software modules. 
@@ -50,7 +45,6 @@ d. Acceptance testing involves testing the software against user requirements to
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is crafting a question or instructions that help an AI to provide a suitable solution to your query. Prompt engineering ensures the AI modules produce accurate and relevant information.

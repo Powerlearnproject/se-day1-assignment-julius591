@@ -63,7 +63,6 @@ c. System testing involves testing the software system as a whole.
 
 d. Acceptance testing involves testing the software against user requirements to ascertain that it has met the user's needs.
 
-
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
